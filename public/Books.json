@@ -1,0 +1,154 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "image": "https://m.media-amazon.com/images/I/51UoqRAxwEL.jpg",
+        "review": "A gripping psychological thriller with an unpredictable twist.",
+        "totalPages": 336,
+        "rating": 4.5,
+        "category": "Thriller",
+        "tags": [
+            "Suspense",
+            "Psychological",
+            "Thriller"
+        ],
+        "publisher": "Celadon Books",
+        "yearOfPublishing": 2019
+    },
+    {
+        "bookId": 2,
+        "bookName": "Educated",
+        "author": "Tara Westover",
+        "image": "https://m.media-amazon.com/images/I/81WojUxbbFL.jpg",
+        "review": "An inspiring memoir of a woman's quest for education in the face of hardship.",
+        "totalPages": 334,
+        "rating": 4.7,
+        "category": "Memoir",
+        "tags": [
+            "Inspirational",
+            "Non-fiction"
+        ],
+        "publisher": "Random House",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 3,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://m.media-amazon.com/images/I/71kxa1-0mfL.jpg",
+        "review": "A classic dystopian novel that explores themes of government surveillance and control.",
+        "totalPages": 328,
+        "rating": 4.6,
+        "category": "Dystopian",
+        "tags": [
+            "Classic",
+            "Dystopia",
+            "Political"
+        ],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "bookId": 4,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://m.media-amazon.com/images/I/81gepf1eMqL.jpg",
+        "review": "A profound novel that addresses racial injustice in the American South.",
+        "totalPages": 281,
+        "rating": 4.9,
+        "category": "Classic",
+        "tags": [
+            "Historical",
+            "Social Issues",
+            "Classic"
+        ],
+        "publisher": "J.B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "bookId": 5,
+        "bookName": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "image": "https://m.media-amazon.com/images/I/91b0C2YNSrL.jpg",
+        "review": "A fantastical adventure that introduces readers to the rich world of Middle-earth.",
+        "totalPages": 310,
+        "rating": 4.8,
+        "category": "Fantasy",
+        "tags": [
+            "Fantasy",
+            "Adventure",
+            "Epic"
+        ],
+        "publisher": "George Allen & Unwin",
+        "yearOfPublishing": 1937
+    },
+    {
+        "bookId": 6,
+        "bookName": "Becoming",
+        "author": "Michelle Obama",
+        "image": "https://m.media-amazon.com/images/I/81h2gWPTYJL.jpg",
+        "review": "A powerful and personal memoir of the former First Lady of the United States.",
+        "totalPages": 448,
+        "rating": 4.8,
+        "category": "Memoir",
+        "tags": [
+            "Inspirational",
+            "Non-fiction",
+            "Biography"
+        ],
+        "publisher": "Crown Publishing Group",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 7,
+        "bookName": "The Midnight Library",
+        "author": "Matt Haig",
+        "image": "https://m.media-amazon.com/images/I/81vvgZqCskL.jpg",
+        "review": "A heartwarming and philosophical story about second chances and the choices we make.",
+        "totalPages": 304,
+        "rating": 4.2,
+        "category": "Fiction",
+        "tags": [
+            "Philosophical",
+            "Fantasy",
+            "Life Choices"
+        ],
+        "publisher": "Canongate Books",
+        "yearOfPublishing": 2020
+    },
+    {
+        "bookId": 8,
+        "bookName": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "image": "https://m.media-amazon.com/images/I/81WojUxbbFL.AC_UL640_QL65.jpg",
+        "review": "A beautiful, slow-burning mystery set in the wild marshes of North Carolina.",
+        "totalPages": 368,
+        "rating": 4.7,
+        "category": "Mystery",
+        "tags": [
+            "Mystery",
+            "Drama",
+            "Nature"
+        ],
+        "publisher": "G.P. Putnam's Sons",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 9,
+        "bookName": "Atomic Habits",
+        "author": "James Clear",
+        "image": "https://m.media-amazon.com/images/I/91bYsX41DVL.jpg",
+        "review": "A practical guide on how to build good habits and break bad ones for lasting success.",
+        "totalPages": 320,
+        "rating": 4.8,
+        "category": "Self-help",
+        "tags": [
+            "Self-development",
+            "Productivity",
+            "Motivation"
+        ],
+        "publisher": "Avery",
+        "yearOfPublishing": 2018
+    }
+]
